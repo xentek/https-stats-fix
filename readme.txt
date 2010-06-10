@@ -41,7 +41,7 @@ Initial Release. All functionality accounted and working.
 == Upgrade Notice ==
 
 = 0.2 =
-* Plugin now links to dedicated plugin page where users can get support, ask questions, and provide feedback.
+Plugin now links to dedicated plugin page where users can get support, ask questions, and provide feedback.
 
 == License ==
 
