@@ -10,7 +10,7 @@ If you are using the WordPress.com Stats plugin, and some of your pages use the 
 
 == Description ==
 
-If you are using the WordPress.com Stats plugin, and some of your pages use the HTTPS protocol for SSL, then you need this plugin. The WordPress.com Stats plugin will add its remote javascript file with an HTTP link. This plugin detaches this file, and rewrites it with an HTTPS link.
+If you are using the [WordPress.com Stats plugin](http://wordpress.org/extend/plugins/stats/), and some of your pages use the HTTPS protocol for SSL, then you need this plugin. The WordPress.com Stats plugin will add its remote javascript file with an HTTP link. This plugin detaches this file, and rewrites it with an HTTPS link.
 
 == Installation ==
 
@@ -21,7 +21,7 @@ If you are using the WordPress.com Stats plugin, and some of your pages use the 
 
 = Why would I want this? =
 
-Until the [WordPress.com Stats]() fixes itself to use HTTP or HTTPS based on how the page is being viewed
+Until the [WordPress.com Stats plugin](http://wordpress.org/extend/plugins/stats/) fixes itself to use the HTTP or HTTPS protocol dynamically based on how the current page is being viewed, this plugin is necessary. E-Commerce sites especially should benefit from this plugin.
 
 = I want to help with development of this Plugin! =
 
@@ -30,56 +30,19 @@ The project is now hosted on [github.com](http://github.com/xentek/https-stats-f
 [New to git?](http://delicious.com/ericmarden/git)
 
 
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
-
 == Changelog ==
 
-= 1.0 =
-* A change since the previous version.
-* Another change.
+= 0.1 =
+Initial Release. All functionality accounted and working.
 
-= 0.5 =
-* List versions from most recent at top to oldest at bottom.
+== License ==
 
-== Upgrade Notice ==
+The HTTPS Stats Fix plugin was developed by Eric Marden, and is provided with out warranty under the GPLv2 License. More info and other plugins at: http://xentek.net
 
-= 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+Copyright 2010  Eric Marden  (email : wp@xentek.net)
 
-= 0.5 =
-This version fixes a security related bug.  Upgrade immediately.
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
-== Arbitrary section ==
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-You may provide arbitrary sections, in the same format as the ones above.  This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation."  Arbitrary sections will be shown below the built-in sections outlined above.
-
-== A brief Markdown Example ==
-
-Ordered list:
-
-1. Some feature
-1. Another feature
-1. Something else about the plugin
-
-Unordered list:
-
-* something
-* something else
-* third thing
-
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
-
-Markdown uses email style notation for blockquotes and I've been told:
-> Asterisks for *emphasis*. Double it up  for **strong**.
-
-`<?php code(); // goes in backticks ?>`
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
