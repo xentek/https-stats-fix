@@ -1,4 +1,4 @@
-=== HTTPS ===
+=== HTTPS Stats Fix ===
 Contributors: xenlab
 Donate link: http://j.mp/donate-to-xentek
 Tags: https,ssl,statistics,stats
