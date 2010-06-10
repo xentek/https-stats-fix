@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: HTTPS Stats Fix
-Plugin URI: http://xentek.net/
+Plugin URI: http://xentek.net/code/wordpress/plugins/https-stats-fix/
 Description: Fix the WordPress.com Stats plugin to respond to http/https changes
-Version: 0.1
+Version: 0.2
 Author: Eric Marden
 Author URI: http://xentek.net/
 */

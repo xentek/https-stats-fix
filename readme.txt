@@ -32,8 +32,16 @@ The project is now hosted on [github.com](http://github.com/xentek/https-stats-f
 
 == Changelog ==
 
+= 0.2 =
+* Updated Plugin URI to point to dedicated plugin page where users can get support, ask questions, and provide feedback.
+
 = 0.1 =
 Initial Release. All functionality accounted and working.
+
+== Upgrade Notice ==
+
+= 0.2 =
+* Plugin now links to dedicated plugin page where users can get support, ask questions, and provide feedback.
 
 == License ==
 
